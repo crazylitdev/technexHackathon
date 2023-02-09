@@ -1,4 +1,0 @@
-
-
-class FrameSource:
-    pass
